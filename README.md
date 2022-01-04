@@ -1,15 +1,17 @@
+<img src="https://media-exp1.licdn.com/dms/image/C4E16AQFV4EMMCjAhig/profile-displaybackgroundimage-shrink_350_1400/0/1635318851772?e=1646870400&v=beta&t=5OLnrHHW-gllNjaFyXgX5_EUDDh1ELKvhWQzAKUioA4" />
+
 <h1 align="center">Hello World! This is Priyansh Datyal</h1>
 <h3 align="center">A Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshdatyal&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshdatyal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshdatyal&label=Profile%20views&color=00FF00&style=flat" alt="priyanshdatyal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/priyanshdatyal" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshdatyal?logo=twitter&style=for-the-badge" alt="priyanshdatyal" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://priyanshdatyal-me.web.app/](https://priyanshdatyal-me.web.app/)
 
-- 📝 I am active on [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
+- 🔗 LinkedIn : [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
 
-- 📫 How to reach me **priyansh.sk80@gmail.com**
+- 📫 Reach me at : **priyansh.sk80@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
