@@ -3,16 +3,24 @@
 
 <h1 align="center">Hello World! This is Priyansh Datyal</h1>
 <h3 align="center">A Developer from India</h3>
-<h3 align="center">Profile View Counter</h3>
+
+  
+___
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=priyanshdatyal&label=Your Viewer Count : &color=000000&background:black&style=plastic" alt="priyanshdatyal" /> </p>
 
 <p align="center"> <a href="https://twitter.com/priyanshdatyal" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshdatyal?logo=twitter&style=plastic&color=000000&left-color=black" alt="priyanshdatyal" /></a> </p>
 
-- 👨‍💻 All of my projects are available at : https://priyanshdatyal-me.web.app/
-- 📫 Reach me at : **priyansh.sk80@gmail.com**
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+***
+  
+  
+- 👨‍💻 All of my projects are available at : [Visit Portfoloio](https://priyanshdatyal-me.web.app/ "Checkout my portfolio website")
+- 📫 Reach me at : [Reach out on mail](https://mail.google.com/mail/?view=cm&fs=1&to=priyansh.sk80@gmail.com "priyansh.sk80@gmail.com")
+     
+  
+  
+  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://twitter.com/priyanshdatyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyanshdatyal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/priyanshdatyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshdatyal" height="30" width="40" /></a>
 </p>
