@@ -8,7 +8,8 @@
 
 <br />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=priyanshdatyal&label=Your Viewer Count : &color=000000&background:black&style=plastic" alt="priyanshdatyal" /> </p>
----
+
+***
 
 
 | Platform   |      Visit      |  Activeness |
@@ -20,6 +21,8 @@
 | <img align="center" src="https://github.com/priyanshdatyal/priyanshdatyal/blob/main/icons/tw.png?raw=true" alt="priyanshdatyal" height="30" width="30" /> Twitter |    [Twitter](https://twitter.com/priyanshdatyal "Twitter - Priyansh Datyal")   |   20% |
   
 ___
+
+
 <h3 align="center">Languages and Tools:</h3>
 <br />
 
