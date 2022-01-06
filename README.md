@@ -6,7 +6,7 @@
 <h3 align="center">Profile View Counter</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=priyanshdatyal&label=Your Viewer Count : &color=000000&background:black&style=plastic" alt="priyanshdatyal" /> </p>
 
-<p align="center"> <a href="https://twitter.com/priyanshdatyal" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshdatyal?logo=twitter&style=flat&color=000000" alt="priyanshdatyal" /></a> </p>
+<p align="center"> <a href="https://twitter.com/priyanshdatyal" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshdatyal?logo=twitter&style=plastic&color=000000&left-color=black" alt="priyanshdatyal" /></a> </p>
 
 - 👨‍💻 All of my projects are available at : https://priyanshdatyal-me.web.app/
 - 📫 Reach me at : **priyansh.sk80@gmail.com**
