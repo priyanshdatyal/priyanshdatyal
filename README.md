@@ -8,8 +8,7 @@
 
 <p align="center"> <a href="https://twitter.com/priyanshdatyal" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshdatyal?logo=twitter&style=flat&color=000000" alt="priyanshdatyal" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://priyanshdatyal-me.web.app/](https://priyanshdatyal-me.web.app/
-
+- 👨‍💻 All of my projects are available at : https://priyanshdatyal-me.web.app/
 - 📫 Reach me at : **priyansh.sk80@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
