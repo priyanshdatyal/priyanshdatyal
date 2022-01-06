@@ -8,9 +8,6 @@
 
 <br />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=priyanshdatyal&label=Your Viewer Count : &color=000000&background:black&style=plastic" alt="priyanshdatyal" /> </p>
-
-<!-- <p align="center"> <a href="https://twitter.com/priyanshdatyal" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshdatyal?logo=twitter&style=plastic&color=000000&left-color=black" alt="priyanshdatyal" /></a> </p> -->
-   
 ---
 
 
@@ -20,7 +17,7 @@
 | <img align="center" src="https://github.com/priyanshdatyal/priyanshdatyal/blob/main/icons/maill.png?raw=true" alt="priyanshdatyal" height="30" width="30" /> E-Mail |    [Reach out on mail](https://mail.google.com/mail/?view=cm&fs=1&to=priyansh.sk80@gmail.com "priyansh.sk80@gmail.com")   |   100% |
 | <img align="center" src="https://github.com/priyanshdatyal/priyanshdatyal/blob/main/icons/lnkdin.png?raw=true" alt="priyanshdatyal" height="30" width="30" /> LinkedIn |    [Link on LinkedIn](https://www.linkedin.com/in/priyansh-datyal-9a2448193/  "LinkedIn - Priyansh Datyal")   |   60% |
 | <img align="center" src="https://github.com/priyanshdatyal/priyanshdatyal/blob/main/icons/tg.png?raw=true" alt="priyanshdatyal" height="30" width="30" /> Telegram |    [Contact](https://telegram.me/Priyansh_Datyal "Telegram - Priyansh Datyal")   |   100% |
-| <img align="center" src="https://github.com/priyanshdatyal/priyanshdatyal/blob/main/icons/tw.png?raw=true" alt="priyanshdatyal" height="30" width="30" /> Twitter |    [Twitter](https://linkedin.com/in/priyanshdatyal "Twitter - Priyansh Datyal")   |   20% |
+| <img align="center" src="https://github.com/priyanshdatyal/priyanshdatyal/blob/main/icons/tw.png?raw=true" alt="priyanshdatyal" height="30" width="30" /> Twitter |    [Twitter](https://twitter.com/priyanshdatyal "Twitter - Priyansh Datyal")   |   20% |
   
 ___
 <h3 align="center">Languages and Tools:</h3>
