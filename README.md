@@ -4,9 +4,9 @@
 <h1 align="center">Hello World! This is Priyansh Datyal</h1>
 <h3 align="center">A Developer from India</h3>
 <h3 align="center">Profile View Counter</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=priyanshdatyal&label=&color=00FF00&background:black&style=plastic" alt="priyanshdatyal" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=priyanshdatyal&label=Your Viewer Count : &color=000000&background:black&style=plastic" alt="priyanshdatyal" /> </p>
 
-<p align="center"> <a href="https://twitter.com/priyanshdatyal" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshdatyal?logo=twitter&style=flat" alt="priyanshdatyal" /></a> </p>
+<p align="center"> <a href="https://twitter.com/priyanshdatyal" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshdatyal?logo=twitter&style=flat&color=000000" alt="priyanshdatyal" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://priyanshdatyal-me.web.app/](https://priyanshdatyal-me.web.app/)
 
