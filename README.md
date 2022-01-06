@@ -2,15 +2,19 @@
 
 <img align="center" alt="priyanshdatyal" src="https://media-exp1.licdn.com/dms/image/C4E16AQFV4EMMCjAhig/profile-displaybackgroundimage-shrink_350_1400/0/1635318851772?e=1646870400&v=beta&t=5OLnrHHW-gllNjaFyXgX5_EUDDh1ELKvhWQzAKUioA4" />
 
-<h1 align="center">Hello World! This is Priyansh Datyal</h1>
+<h1 align="center">Hello World! <br /> This is Priyansh Datyal</h1>
 
 <h3 align="center">A Developer from India</h3>
 
+
+  ```diff
+        A Developer from India
+        Intrested In AI, Psychology, S/W Development
+  ```
 <br />
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=priyanshdatyal&label=Your Viewer Count : &color=000000&background:black&style=plastic" alt="priyanshdatyal" /> </p>
+<p align="center"> <img width="250" src="https://komarev.com/ghpvc/?username=priyanshdatyal&label=Total Visits &color=000000&&background:black&style=plastic" alt="priyanshdatyal" /> </p>
 
 ***
-
 
 | Platform   |      Visit      |  Activeness |
 |:----------|:-------------:|------:|
@@ -19,6 +23,7 @@
 | <img align="center" src="https://github.com/priyanshdatyal/priyanshdatyal/blob/main/icons/lnkdin.png?raw=true" alt="priyanshdatyal" height="30" width="30" /> LinkedIn |    [Link on LinkedIn](https://www.linkedin.com/in/priyansh-datyal-9a2448193/  "LinkedIn - Priyansh Datyal")   |   60% |
 | <img align="center" src="https://github.com/priyanshdatyal/priyanshdatyal/blob/main/icons/tg.png?raw=true" alt="priyanshdatyal" height="30" width="30" /> Telegram |    [Contact](https://telegram.me/Priyansh_Datyal "Telegram - Priyansh Datyal")   |   100% |
 | <img align="center" src="https://github.com/priyanshdatyal/priyanshdatyal/blob/main/icons/tw.png?raw=true" alt="priyanshdatyal" height="30" width="30" /> Twitter |    [Twitter](https://twitter.com/priyanshdatyal "Twitter - Priyansh Datyal")   |   20% |
+
   
 ___
 
