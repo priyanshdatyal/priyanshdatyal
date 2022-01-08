@@ -32,6 +32,11 @@ ___
 
 <p align="left">
 
+<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=priyanshdatyal&layout=compact&theme=radical" align="center">
+  <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=priyanshdatyal&layout=compact&theme=radical" />
+</a>
+  
+  
 Android Development
    
 <br />
@@ -90,9 +95,6 @@ OS and Other
 
 </p>
 
-<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=priyanshdatyal&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />
-</a>
 <br />
 
  
