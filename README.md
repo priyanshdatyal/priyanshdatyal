@@ -13,7 +13,6 @@
   ```
 <br />
 <p align="center"> <img width="250" src="https://komarev.com/ghpvc/?username=priyanshdatyal&label=Total Visits &color=000000&&background:black&style=plastic" alt="priyanshdatyal" /> </p>
-
 ***
 
 | Platform   |      Visit      |  Activeness |
@@ -90,10 +89,10 @@ OS and Other
     </p>   
 
 </p>
-<p align=center>                           
-  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.sabesansathananthan" alt="Visitors">                     
-</p>
 
+<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=priyanshdatyal&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />
+</a>
 <br />
 
  
