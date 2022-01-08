@@ -32,11 +32,6 @@ ___
 <br />
 
 <p align="left">
-
-<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=priyanshdatyal&layout=compact&theme=radical" align="center">
-  <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=priyanshdatyal&layout=compact&theme=radical" />
-</a>
-  
   
 Android Development
    
