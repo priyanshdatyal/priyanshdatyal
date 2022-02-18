@@ -19,10 +19,10 @@
 | Platform   |      Visit      |  Activeness |
 |:----------|:-------------:|------:|
 | <img align="center" src="https://github.com/priyanshdatyal/priyanshdatyal/blob/main/icons/poico.png?raw=true" alt="priyanshdatyal" height="30" width="30" />     Portfolio          |       [Visit Portfoloio](https://priyanshdatyal-me.web.app/ "Checkout my portfolio website")            |     |
-| <img align="center" src="https://github.com/priyanshdatyal/priyanshdatyal/blob/main/icons/maill.png?raw=true" alt="priyanshdatyal" height="30" width="30" />     E-Mail          |            [Reach out on mail](https://mail.google.com/mail/?view=cm&fs=1&to=priyansh.sk80@gmail.com "priyansh.sk80@gmail.com")       |   100% |
-| <img align="center" src="https://github.com/priyanshdatyal/priyanshdatyal/blob/main/icons/lnkdin.png?raw=true" alt="priyanshdatyal" height="30" width="30" />     LinkedIn          |       [Link on LinkedIn](https://www.linkedin.com/in/priyansh-datyal-9a2448193/  "LinkedIn - Priyansh Datyal")           |   60% |
+| <img align="center" src="https://github.com/priyanshdatyal/priyanshdatyal/blob/main/icons/maill.png?raw=true" alt="priyanshdatyal" height="30" width="30" />     E-Mail          |            [Reach out on mail](https://mail.google.com/mail/?view=cm&fs=1&to=priyansh.sk80@gmail.com "priyansh.sk80@gmail.com")       |   80% |
+| <img align="center" src="https://github.com/priyanshdatyal/priyanshdatyal/blob/main/icons/lnkdin.png?raw=true" alt="priyanshdatyal" height="30" width="30" />     LinkedIn          |       [Link on LinkedIn](https://www.linkedin.com/in/priyansh-datyal-9a2448193/  "LinkedIn - Priyansh Datyal")           |   100% |
 | <img align="center" src="https://github.com/priyanshdatyal/priyanshdatyal/blob/main/icons/tg.png?raw=true" alt="priyanshdatyal" height="30" width="30" />     Telegram          |             [Contact](https://telegram.me/Priyansh_Datyal "Telegram - Priyansh Datyal")                     |   100% |
-| <img align="center" src="https://github.com/priyanshdatyal/priyanshdatyal/blob/main/icons/tw.png?raw=true" alt="priyanshdatyal" height="30" width="30" />     Twitter          |             [Twitter](https://twitter.com/priyanshdatyal "Twitter - Priyansh Datyal")                        |   20% |
+| <img align="center" src="https://github.com/priyanshdatyal/priyanshdatyal/blob/main/icons/tw.png?raw=true" alt="priyanshdatyal" height="30" width="30" />     Twitter          |             [Twitter](https://twitter.com/priyanshdatyal "Twitter - Priyansh Datyal")                        |   70% |
 
   
 ___
