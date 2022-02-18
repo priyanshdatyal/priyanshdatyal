@@ -16,7 +16,7 @@
 
 ***
 
-| Platform   |      Visit      |  Activeness |
+| Platform   |      Visit      |  Availability |
 |:----------|:-------------:|------:|
 | <img align="center" src="https://github.com/priyanshdatyal/priyanshdatyal/blob/main/icons/poico.png?raw=true" alt="priyanshdatyal" height="30" width="30" />     Portfolio          |       [Visit Portfoloio](https://priyanshdatyal-me.web.app/ "Checkout my portfolio website")            |     |
 | <img align="center" src="https://github.com/priyanshdatyal/priyanshdatyal/blob/main/icons/maill.png?raw=true" alt="priyanshdatyal" height="30" width="30" />     E-Mail          |            [Reach out on mail](https://mail.google.com/mail/?view=cm&fs=1&to=priyansh.sk80@gmail.com "priyansh.sk80@gmail.com")       |   80% |
