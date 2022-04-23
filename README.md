@@ -1,6 +1,6 @@
 
 <p align="center"> 
-<img align="center" alt="priyanshdatyal" src="https://media-exp1.licdn.com/dms/image/C5616AQG84xs6mDWiUQ/profile-displaybackgroundimage-shrink_350_1400/0/1643695438343?e=1649894400&v=beta&t=7OQ7yQLhJX5c5GLdnwim9XwYYhQAAHNWAY9oV9DDks0" /> </p>
+<img align="center" alt="priyanshdatyal" src="https://media-exp1.licdn.com/dms/image/C5603AQHxUWV-e6wksw/profile-displayphoto-shrink_200_200/0/1650373486739?e=1655942400&v=beta&t=RZjQnFUw1OitvhtERjUMeoV5bGo4qKQpEzHZNc1q4rI" /> </p>
 
 <h1 align="center">Hello World! <br /> This is Priyansh Datyal</h1>
 
