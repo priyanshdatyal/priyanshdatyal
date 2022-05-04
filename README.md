@@ -6,7 +6,6 @@
 
 
   ```diff
-        A Developer from India
         Intrested In S/W Development, AI, Psychology
   ```
 <br />
