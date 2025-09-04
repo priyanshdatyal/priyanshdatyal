@@ -1,4 +1,4 @@
-name: Metrics
+name: Generate GitHub Metrics Cards
 
 on:
   schedule:
@@ -11,8 +11,10 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      # 1. User Accounts Card
-      - name: GitHub User Accounts
+      - uses: actions/checkout@v3
+
+      # 1. User Accounts
+      - name: Generate User Accounts Card
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -20,18 +22,18 @@ jobs:
           base: ""
           plugin_github_accounts: yes
 
-      # 2. ISO Calendar Card (Half Year)
-      - name: ISO Calendar (Half-Year)
+      # 2. ISO Calendar (Half-Year)
+      - name: Generate ISO Calendar Card
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.plugin.isocalendar.half.svg
+          filename: metrics.plugin.isocalendar.svg
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-      # 3. Habits Card
-      - name: GitHub Habits
+      # 3. Habits
+      - name: Generate Habits Card
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -39,8 +41,8 @@ jobs:
           base: ""
           plugin_habits: yes
 
-      # 4. Achievements Card
-      - name: GitHub Achievements
+      # 4. Achievements
+      - name: Generate Achievements Card
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -48,8 +50,8 @@ jobs:
           base: ""
           plugin_achievements: yes
 
-      # 5. Calendar Card (Commit History Full Year)
-      - name: GitHub Calendar (Full-Year)
+      # 5. Calendar (Full-Year Commit History)
+      - name: Generate Calendar Card
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -58,8 +60,8 @@ jobs:
           plugin_calendar: yes
           plugin_calendar_duration: full-year
 
-      # 6. PageSpeed Card
-      - name: PageSpeed Metrics
+      # 6. PageSpeed
+      - name: Generate PageSpeed Card
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
