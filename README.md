@@ -17,9 +17,6 @@
       </p>
       <h2><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="28"> Let's Connect</h2>
       <p>
-        <a href="https://twitter.com/priyanshdatyal" target="_blank">
-          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-        </a>
         <a href="https://telegram.me/Priyansh_Datyal" target="_blank">
           <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
         </a>
