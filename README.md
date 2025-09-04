@@ -26,7 +26,8 @@ Welcome to my GitHub profile! Here you'll find an overview of my public activity
 
 <p align="center">
   <!-- Visitor Count -->
-  <img src="https://komarev.com/ghpvc/?username=priyanshdatyal&color=black&style=plastic" alt="Profile Views" width="30%" />
+  <img src="https://komarev.com/ghpvc/?username=priyanshdatyal&color=000000&style=plastic" alt="Profile Views" width="30%" />
+
 </p>
 
 <p align="center">
