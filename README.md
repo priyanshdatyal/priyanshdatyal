@@ -1,4 +1,4 @@
-# Priyansh Datyal
+
 ### Software Developer | AI & Psychology Enthusiast
 
 ---
