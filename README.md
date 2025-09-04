@@ -1,42 +1,42 @@
-<!-- ======= GitHub Metrics Cards README ======= -->
+# Hi there 👋, I'm Priyansh Datyal
 
-<!-- Top Row: Public Repo Stats + Top Languages -->
-<p align="center">
-  <!-- Classic GitHub Stats (public repos only) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshdatyal&show_icons=true&theme=dark&include_all_commits=false&count_private=false" alt="GitHub Stats" width="45%" />
-
-  <!-- Top Languages (public repos only) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshdatyal&layout=compact&langs_count=6&count_private=false&theme=dark" alt="Top Languages" width="45%" />
-</p>
+Welcome to my GitHub profile! Here you'll find an overview of my GitHub activity, habits, achievements, and website performance metrics.
 
 ---
 
-<!-- Second Row: Activity Graph + Streak -->
-<p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshdatyal&theme=react-dark" alt="Activity Graph" width="45%" />
+## 🧑‍💻 GitHub Metrics
 
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshdatyal&theme=dark" alt="GitHub Streak" width="45%" />
-</p>
+### 1. User Accounts
+![User Accounts](https://github.com/lowlighter/metrics/blob/master/cards/user-accounts.md?username=priyanshdatyal)
+
+### 2. ISO Calendar
+Track contributions and activity over the year.  
+![ISO Calendar](https://github.com/lowlighter/metrics/blob/master/cards/isocalendar.md?username=priyanshdatyal)
+
+### 3. Habits
+Visualize your GitHub habits and streaks.  
+![Habits](https://github.com/lowlighter/metrics/blob/master/cards/habits.md?username=priyanshdatyal)
+
+### 4. Achievements
+Your earned badges and GitHub achievements.  
+![Achievements](https://github.com/lowlighter/metrics/blob/master/cards/achievements.md?username=priyanshdatyal)
+
+### 5. Calendar
+A detailed view of your contribution calendar.  
+![Calendar](https://github.com/lowlighter/metrics/blob/master/cards/calendar.md?username=priyanshdatyal)
+
+### 6. PageSpeed
+Website performance metrics for [priyansh.datyal.com](https://priyansh.datyal.com).  
+![PageSpeed](https://github.com/lowlighter/metrics/blob/master/cards/pagespeed.md?url=https://priyansh.datyal.com)
 
 ---
 
-<!-- Third Row: Profile Views + Pinned Repos -->
-<p align="center">
-  <!-- Visitor Count -->
-  <img src="https://komarev.com/ghpvc/?username=priyanshdatyal&color=000000&style=plastic" alt="Profile Views" width="30%" />
+## 🔗 Connect with me
 
-  <!-- Pinned Repo 1 -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshdatyal&repo=REPO1&theme=dark" alt="Pinned Repo 1" width="30%" />
-
-  <!-- Pinned Repo 2 -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshdatyal&repo=REPO2&theme=dark" alt="Pinned Repo 2" width="30%" />
-</p>
+- 🌐 Personal Website: [priyansh.datyal.com](https://priyansh.datyal.com)  
+- 🐦 Twitter: [@your_handle](https://twitter.com/your_handle)  
+- 💼 LinkedIn: [Priyansh Datyal](https://www.linkedin.com/in/priyansh-datyal)
 
 ---
 
-<!-- Optional Row: Trophies / Achievements -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanshdatyal&theme=dark&row=1&column=5" alt="Trophies" />
-</p>
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
