@@ -1,9 +1,8 @@
-# Software Developer | AI & Psychology Enthusiast
-
+<h2><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="28"> About Me</h2>
+---      
 <table width="100%">
   <tr>
     <td width="60%" valign="top">
-      <h2><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="28"> About Me</h2>
       <p>
         I'm a passionate developer from India who loves building impactful software. My work spans from creating robust **Android** applications to exploring the fascinating world of **AI** and **Machine Learning**. I am a firm believer in continuous learning and leveraging technology to solve complex, real-world problems.
       </p>
