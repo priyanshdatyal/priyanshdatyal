@@ -6,28 +6,29 @@ Welcome to my GitHub profile! Here you'll find an overview of my GitHub activity
 
 ## 🧑‍💻 GitHub Metrics
 
-### 1. User Accounts
-![User Accounts](https://github.com/lowlighter/metrics/blob/master/cards/user-accounts.md?username=priyanshdatyal)
+<p align="center">
+  <!-- User Accounts -->
+  <img src="https://metrics.lekoarts.de/api?username=priyanshdatyal&plugins=github-accounts" alt="User Accounts" width="45%" />
 
-### 2. ISO Calendar
-Track contributions and activity over the year.  
-![ISO Calendar](https://github.com/lowlighter/metrics/blob/master/cards/isocalendar.md?username=priyanshdatyal)
+  <!-- ISO Calendar -->
+  <img src="https://metrics.lekoarts.de/api?username=priyanshdatyal&plugins=isocalendar" alt="ISO Calendar" width="45%" />
+</p>
 
-### 3. Habits
-Visualize your GitHub habits and streaks.  
-![Habits](https://github.com/lowlighter/metrics/blob/master/cards/habits.md?username=priyanshdatyal)
+<p align="center">
+  <!-- Habits -->
+  <img src="https://metrics.lekoarts.de/api?username=priyanshdatyal&plugins=habits" alt="Habits" width="45%" />
 
-### 4. Achievements
-Your earned badges and GitHub achievements.  
-![Achievements](https://github.com/lowlighter/metrics/blob/master/cards/achievements.md?username=priyanshdatyal)
+  <!-- Achievements -->
+  <img src="https://metrics.lekoarts.de/api?username=priyanshdatyal&plugins=achievements" alt="Achievements" width="45%" />
+</p>
 
-### 5. Calendar
-A detailed view of your contribution calendar.  
-![Calendar](https://github.com/lowlighter/metrics/blob/master/cards/calendar.md?username=priyanshdatyal)
+<p align="center">
+  <!-- Calendar -->
+  <img src="https://metrics.lekoarts.de/api?username=priyanshdatyal&plugins=calendar" alt="Calendar" width="45%" />
 
-### 6. PageSpeed
-Website performance metrics for [priyansh.datyal.com](https://priyansh.datyal.com).  
-![PageSpeed](https://github.com/lowlighter/metrics/blob/master/cards/pagespeed.md?url=https://priyansh.datyal.com)
+  <!-- PageSpeed -->
+  <img src="https://metrics.lekoarts.de/api?url=https://priyansh.datyal.com&plugins=pagespeed" alt="PageSpeed" width="45%" />
+</p>
 
 ---
 
@@ -40,3 +41,5 @@ Website performance metrics for [priyansh.datyal.com](https://priyansh.datyal.co
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+
