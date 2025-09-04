@@ -1,7 +1,4 @@
-
-### Software Developer | AI & Psychology Enthusiast
-
----
+# Software Developer | AI & Psychology Enthusiast
 
 <table width="100%">
   <tr>
