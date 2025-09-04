@@ -1,5 +1,4 @@
 <h2><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="28"> About Me</h2>
----      
 <table width="100%">
   <tr>
     <td width="60%" valign="top">
