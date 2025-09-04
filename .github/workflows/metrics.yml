@@ -1,8 +1,11 @@
 name: Metrics
+
 on:
-  schedule: [{cron: "0 * * * *"}] # Update every hour
-  workflow_dispatch:              # Allow manual run
-  push: {branches: ["main"]}      # Run on push to main
+  schedule:
+    - cron: "0 * * * *" # Update every hour
+  workflow_dispatch:    # Allow manual run
+  push:
+    branches: ["main"]  # Run on push to main
 
 jobs:
   github-metrics:
@@ -10,15 +13,30 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # REQUIRED: your GitHub token (classic, with repo/public_repo + read:user)
+          # REQUIRED: GitHub token (classic, with repo/public_repo + read:user)
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Basic template
+          # User
           user: priyanshdatyal
-          template: classic
-          base: header, activity, community, repositories, metadata
 
-          # Options (add or remove as you like)
+          # Use template: empty (we'll define plugins manually)
+          template: ""
+
+          # Base sections (optional)
+          base: header, metadata
+
+          # Plugins for the cards you listed
+          plugin_github_accounts: yes
+          plugin_isocalendar: yes
+          plugin_habits: yes
+          plugin_achievements: yes
+          plugin_calendar: yes
+          plugin_pagespeed: yes
+
+          # PageSpeed options
+          pagespeed_urls: https://priyansh.datyal.com
+
+          # Optional plugin configs
           config_timezone: Asia/Kolkata
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
