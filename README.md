@@ -10,7 +10,6 @@
         **🌱 Always learning:** Advanced concepts in machine learning and cloud architecture. <br>
         **💬 Let's connect:** Feel free to reach out to discuss technology, psychology, or a new project idea!
       </p>
-      <h2><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="28"> Let's Connect</h2>
       <p>
         <a href="https://priyanshdatyal-me.web.app/" target="_blank">
           <img src="https://img.shields.io/badge/Portfolio-28A745?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
