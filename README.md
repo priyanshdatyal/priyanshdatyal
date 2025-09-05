@@ -11,7 +11,7 @@
         **💬 Let's connect:** Feel free to reach out to discuss technology, psychology, or a new project idea!
       </p>
       <p>
-        <a href="https://priyanshdatyal-me.web.app/" target="_blank">
+        <a href="https://priyansh.datyal.com/" target="_blank">
           <img src="https://img.shields.io/badge/Portfolio-28A745?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
         </a>
         <a href="https://www.linkedin.com/in/priyansh-datyal-9a2448193/" target="_blank">
@@ -19,9 +19,6 @@
         </a>
         <a href="https://twitter.com/priyanshdatyal" target="_blank">
           <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-        </a>
-        <a href="https://telegram.me/Priyansh_Datyal" target="_blank">
-          <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
         </a>
       </p>
     </td>
