@@ -7,22 +7,16 @@ on:
   push:
     branches: ["main"]
 
+permissions:
+  contents: write
+
 jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
 
-      # 1. User Accounts
-      - name: Generate User Accounts Card
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.plugin.accounts.svg
-          base: ""
-          plugin_github_accounts: yes
-
-      # 2. ISO Calendar (Half-Year)
+      # 1. ISO Calendar (Half-Year)
       - name: Generate ISO Calendar Card
         uses: lowlighter/metrics@latest
         with:
@@ -32,7 +26,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-      # 3. Habits
+      # 2. Habits
       - name: Generate Habits Card
         uses: lowlighter/metrics@latest
         with:
@@ -41,7 +35,7 @@ jobs:
           base: ""
           plugin_habits: yes
 
-      # 4. Achievements
+      # 3. Achievements
       - name: Generate Achievements Card
         uses: lowlighter/metrics@latest
         with:
@@ -50,22 +44,12 @@ jobs:
           base: ""
           plugin_achievements: yes
 
-      # 5. Calendar (Full-Year Commit History)
-      - name: Generate Calendar Card
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.plugin.calendar.svg
-          base: ""
-          plugin_calendar: yes
-          plugin_calendar_duration: full-year
-
-      # 6. PageSpeed
+      # 4. PageSpeed Insights
       - name: Generate PageSpeed Card
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.plugin.pagespeed.svg
           base: ""
-          plugin_pagespeed: yes
-          pagespeed_urls: https://priyansh.datyal.com
+          plugin_pagespeedinsights: yes
+          plugin_pagespeedinsights_url: https://priyansh.datyal.com
