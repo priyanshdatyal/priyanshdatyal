@@ -33,7 +33,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyanshdatyal&label=Profile%20Visits%20&color=000000&style=for-the-badge" alt="priyanshdatyal" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshdatyal&theme=default&t=1694959200" />
 </p>
 
 
