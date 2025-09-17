@@ -24,7 +24,7 @@
     </td>
     <td width="40%" valign="top">
       <div align="right">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshdatyal&theme=default" alt="Priyansh's GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshdatyal&theme=default&t=1694959200" />
       </div>
     </td>
   </tr>
@@ -33,7 +33,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshdatyal&theme=default&t=1694959200" />
+  <img src="https://komarev.com/ghpvc/?username=priyanshdatyal&label=Profile%20Visits%20&color=000000&style=for-the-badge" alt="priyanshdatyal" />
 </p>
-
 
