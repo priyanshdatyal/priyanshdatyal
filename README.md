@@ -23,16 +23,20 @@
       </p>
     </td>
     <td width="40%" valign="top">
-      <div align="right">
+      <div  align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshdatyal&theme=default&t=1694959200" />
+        
+<!-- PageSpeed small badges -->
+  ![PageSpeed Mobile](https://img.shields.io/badge/PageSpeed%20Mobile-92-green?style=for-the-badge)
+  ![PageSpeed Desktop](https://img.shields.io/badge/PageSpeed%20Desktop-98-brightgreen?style=for-the-badge)
+
+  <img src="https://komarev.com/ghpvc/?username=priyanshdatyal&label=Profile%20Visits%20&color=000000&style=for-the-badge" alt="priyanshdatyal" />
       </div>
     </td>
   </tr>
 </table>
 
----
-
+<!-- Large PageSpeed screenshot -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyanshdatyal&label=Profile%20Visits%20&color=000000&style=for-the-badge" alt="priyanshdatyal" />
+  <img src="https://image.thum.io/get/https://pagespeed.web.dev/analysis/https-priyansh-datyal-com/xfbu2h3cuy?form_factor=desktop" alt="PageSpeed Insights" />
 </p>
-
