@@ -38,5 +38,5 @@
 
 <!-- Large PageSpeed screenshot -->
 <p align="center">
-  <img src="https://image.thum.io/get/https://pagespeed.web.dev/analysis/https-priyansh-datyal-com/xfbu2h3cuy?form_factor=desktop" alt="PageSpeed Insights" />
+  <img src="https://pagespeed.web.dev/analysis/https-priyansh-datyal-com/ol3bbyes2b?form_factor=desktop" alt="PageSpeed Insights" />
 </p>
